@@ -15,7 +15,7 @@ public interface AnalizadorEjemploConstants {
   /** Literal token values. */
   String[] tokenImage = {
     "<EOF>",
-    "\"A\"",
+    "<token of kind 1>",
   };
 
 }
